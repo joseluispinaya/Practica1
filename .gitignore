@@ -1,0 +1,48 @@
+# ==========================
+# ARCHIVOS Y CARPETAS LOCALES
+# ==========================
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# ==========================
+# ARCHIVOS DEL PROYECTO
+# ==========================
+
+# Datos de entrada que no deben versionarse
+input/
+muestras.xlsx
+*.js
+
+# Reportes generados automáticamente
+reportes/
+reporte_*.xlsx
+reporte_analisis_20251104_042955.xlsx
+
+# Caches de herramientas
+.ipynb_checkpoints/
+.cache/
+
+# Configuración de VSCode
+.vscode/
+
+# ==========================
+# SISTEMA / SO
+# ==========================
+
+# Windows
+Thumbs.db
+desktop.ini
