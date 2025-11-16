@@ -10,9 +10,9 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 #from openpyxl import Workbook
 import time
 
-API_KEY_SAFEBROWSING = "AIzaSyBX3UelHbndIsc2VQYILu-KfOVaW-SXEY0"
-API_KEY_VIRUSTOTAL = "536ddb2b38a9c4debd707085697b7c161eab72cb8f7aeed873af20711f08633b"
-API_KEY_HYBRID = "s68zidaddb865ee97zwp0p4s3ea18076obru272cef247e59v7xdx1is011adae3"
+API_KEY_SAFEBROWSING = "Apikey"
+API_KEY_VIRUSTOTAL = "Apikey"
+API_KEY_HYBRID = "Apikey"
 
 def consultar_safebrowsing(url):
     api_url = f"https://safebrowsing.googleapis.com/v4/threatMatches:find?key={API_KEY_SAFEBROWSING}"
