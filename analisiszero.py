@@ -10,8 +10,8 @@ import hashlib
 
 # CONFIGURACIÓN DE API KEYS
 API_KEYS = {
-    'virustotal': '536ddb2b38a9c4debd707085697b7c161eab72cb8f7aeed873af20711f08633b',
-    'hybrid_analysis': 's68zidaddb865ee97zwp0p4s3ea18076obru272cef247e59v7xdx1is011adae3'
+    'virustotal': 'API_KEY',
+    'hybrid_analysis': 'API_KEY'
 }
 
 # calcular hashes MD5/SHA1/SHA256
