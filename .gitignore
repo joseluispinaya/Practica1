@@ -26,11 +26,13 @@ __pycache__/
 input/
 muestras.xlsx
 *.js
+test.pcap
 
 # Reportes generados automáticamente
 reportes/
 reporte_*.xlsx
 reporte_analisis_20251104_042955.xlsx
+*.xlsx
 
 # Caches de herramientas
 .ipynb_checkpoints/

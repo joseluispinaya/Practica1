@@ -114,4 +114,20 @@ El archivo `muestras.xlsx` debe contener como mínimo estas columnas:
 
 ## Info
 
-Practica 1
+1. Practica 1 Ejecutar:
+
+```bash
+python analisiszero.py
+```
+
+2. Practica 2 Ejecutar:
+
+```bash
+python analisisamenaza.py
+```
+
+3. Practica 3 Ejecutar:
+
+```bash
+python analisispishin.py
+```
